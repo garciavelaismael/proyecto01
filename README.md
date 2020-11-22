@@ -6,7 +6,7 @@ Este proyecto reúne todo lo dado en este trimestre.
   - aspirants.js > Personas que quieren trabajar en la empresa
   - clients.js > Clientes que han comprado en nuestra empresa
   - inventory.js > Productos de la empresa
-  - employees.js > Empleados 
+  - employees.js > Empleados de la empresa
 
 - La carpeta **doc** que tiene un documento en el cuál se explica todo lo teórico.
 
